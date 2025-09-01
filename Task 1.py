@@ -1,1 +1,1 @@
-print('Hello,',input('What is your Name?'),"!")
+print('Hello, Jack!')
