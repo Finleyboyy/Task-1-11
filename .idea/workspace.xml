@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb830d8-56f5-4e0e-81d2-23eb8dbfee7e" name="Changes" comment="exercises">
-      <change afterPath="$PROJECT_DIR$/Task 2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 8 .2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 8.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 7.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 8.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +37,12 @@
     &quot;assignee&quot;: &quot;Finleyboyy&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="c9d34da1-c411-4751-9028-cf37f71899b8" />
-  </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Finleyboyy/Task-1-11.git",
-    "accountId": "c9d34da1-c411-4751-9028-cf37f71899b8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Finleyboyy/Task-1-11.git&quot;,
+    &quot;accountId&quot;: &quot;c9d34da1-c411-4751-9028-cf37f71899b8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -85,21 +83,27 @@
     "Python.Task 6.3.executor": "Run",
     "Python.Task 6.4.executor": "Run",
     "Python.Task 6.5.executor": "Run",
+    "Python.Task 7.1.executor": "Run",
+    "Python.Task 7.2.executor": "Run",
     "Python.Task 7.3.executor": "Run",
+    "Python.Task 8 .2.executor": "Run",
     "Python.Task 8.1.executor": "Run",
+    "Python.Task 8.3.executor": "Run",
     "Python.Test 4.4.executor": "Run",
     "Python.Test 6.6.executor": "Run",
     "Python.Test 7.1.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jackmarjatsalo/PycharmProjects/Task-1-11",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -120,7 +124,17 @@
       <updated>1756627443521</updated>
       <workItem from="1756627444572" duration="5042000" />
       <workItem from="1756647884257" duration="10515000" />
-      <workItem from="1756708699562" duration="1544000" />
+      <workItem from="1756708699562" duration="6758000" />
+      <workItem from="1756715617031" duration="4000" />
+      <workItem from="1756715632722" duration="263000" />
+      <workItem from="1756978785630" duration="9678000" />
+      <workItem from="1757056684930" duration="1729000" />
+      <workItem from="1757176053019" duration="20000" />
+      <workItem from="1757313355449" duration="4148000" />
+      <workItem from="1757319316200" duration="11045000" />
+      <workItem from="1757507931524" duration="4278000" />
+      <workItem from="1757593290047" duration="320000" />
+      <workItem from="1757611785121" duration="8087000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -146,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756652180202</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercises">
+      <option name="closed" value="true" />
+      <created>1756710359199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756710359199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,19 +212,27 @@
     <SUITE FILE_PATH="coverage/PythonProject5$Test_6_6.coverage" NAME="Test 6.6 Coverage Results" MODIFIED="1756656217185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_6_3.coverage" NAME="Task 6.3 Coverage Results" MODIFIED="1756655720430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Test_7_1.coverage" NAME="Test 7.1 Coverage Results" MODIFIED="1756656348870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_7_2.coverage" NAME="Task 7.2 Coverage Results" MODIFIED="1757877183623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_8__2.coverage" NAME="Task 8 .2 Coverage Results" MODIFIED="1757880478454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_5_4.coverage" NAME="Task 5.4 Coverage Results" MODIFIED="1756655264199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_5_1.coverage" NAME="Task 5.1 Coverage Results" MODIFIED="1756654885380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_2_4.coverage" NAME="Task 2.4 Coverage Results" MODIFIED="1757525605097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_4_6.coverage" NAME="Task 4.6 Coverage Results" MODIFIED="1756654563986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_6_2.coverage" NAME="Task 6.2 Coverage Results" MODIFIED="1756655536939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_8_1.coverage" NAME="Task 8.1 Coverage Results" MODIFIED="1756657457374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_8_3.coverage" NAME="Task 8.3 Coverage Results" MODIFIED="1757880641935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1756652668420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$test.coverage" NAME="test Coverage Results" MODIFIED="1757526937853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_6_5.coverage" NAME="Task 6.5 Coverage Results" MODIFIED="1756656057391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_7_3.coverage" NAME="Task 7.3 Coverage Results" MODIFIED="1756657145487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_7_3.coverage" NAME="Task 7.3 Coverage Results" MODIFIED="1757877431950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_8_1.coverage" NAME="Task 8.1 Coverage Results" MODIFIED="1757880382621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Task_1_11$Task_2_2.coverage" NAME="Task 2.2 Coverage Results" MODIFIED="1756709197905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_6_4.coverage" NAME="Task 6.4 Coverage Results" MODIFIED="1756655974008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_2_4.coverage" NAME="Task 2.4 Coverage Results" MODIFIED="1756649847698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/Task_1_11$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1756709576849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_4_3.coverage" NAME="Task 4.3 Coverage Results" MODIFIED="1756653676841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Task_1_11$Task_7_1.coverage" NAME="Task 7.1 Coverage Results" MODIFIED="1757877216711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1756631901394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_2_3.coverage" NAME="Task 2.3 Coverage Results" MODIFIED="1756648295819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Task_2_6.coverage" NAME="Task 2.6 Coverage Results" MODIFIED="1756650011691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />

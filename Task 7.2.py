@@ -1,18 +1,22 @@
-# make empty set
+# Create an empty set to store names
 names = set()
 
-# keep asking until empty
-name = input("Enter a name: ")
+while True:
+    # Ask the user to type a name
+    name = input("Enter a name (or press Enter to stop): ")
 
-while name != "":
+    # If the user just presses Enter, stop the loop
+    if name == "":
+        break
+
+    # Check if the name is already in the set
     if name in names:
         print("Existing name")
     else:
         print("New name")
-        names.add(name)
-    name = input("Enter a name: ")
+        names.add(name)  # Add the name to the set
 
-# print all names
-print("The names entered were:")
+# After the loop, print all names
+print("\nList of names:")
 for n in names:
     print(n)
